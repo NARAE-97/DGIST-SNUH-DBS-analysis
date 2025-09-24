@@ -1,0 +1,97 @@
+﻿condition,patient,UPDRS
+Presurgery,501,62
+Presurgery,502,73
+Presurgery,503,35
+Presurgery,504,46
+Presurgery,505,33
+Presurgery,506,24.5
+Presurgery,507,40
+Presurgery,508,38
+Presurgery,509,44
+Presurgery,510,42
+Presurgery,511,40.5
+Presurgery,512,27
+Presurgery,513,25
+Presurgery,514,28
+Presurgery,515,33.5
+Presurgery,516,68
+Presurgery wMx,501,17
+Presurgery wMx,502,26
+Presurgery wMx,503,17
+Presurgery wMx,504,29
+Presurgery wMx,505,18
+Presurgery wMx,506,20
+Presurgery wMx,507,33
+Presurgery wMx,508,27
+Presurgery wMx,509,31
+Presurgery wMx,510,35
+Presurgery wMx,511,21
+Presurgery wMx,512,21.5
+Presurgery wMx,513,12.5
+Presurgery wMx,514,3
+Presurgery wMx,515,15
+Presurgery wMx,516,36.5
+6mo,501,NaN
+6mo,502,50
+6mo,503,40
+6mo,504,30
+6mo,505,NaN
+6mo,506,28
+6mo,507,24
+6mo,508,46
+6mo,509,35
+6mo,510,35
+6mo,511,61
+6mo,512,43
+6mo,513,21
+6mo,514,27
+6mo,515,40
+6mo,516,48
+6mo wDBS,501,22
+6mo wDBS,502,36
+6mo wDBS,503,6
+6mo wDBS,504,13
+6mo wDBS,505,NaN
+6mo wDBS,506,15
+6mo wDBS,507,14
+6mo wDBS,508,34
+6mo wDBS,509,19
+6mo wDBS,510,23
+6mo wDBS,511,45.5
+6mo wDBS,512,35
+6mo wDBS,513,12
+6mo wDBS,514,16
+6mo wDBS,515,26
+6mo wDBS,516,28
+6mo wMx,501,NaN
+6mo wMx,502,42
+6mo wMx,503,NaN
+6mo wMx,504,21
+6mo wMx,505,19
+6mo wMx,506,14
+6mo wMx,507,20
+6mo wMx,508,27
+6mo wMx,509,NaN
+6mo wMx,510,35
+6mo wMx,511,50.5
+6mo wMx,512,37
+6mo wMx,513,17
+6mo wMx,514,12.5
+6mo wMx,515,41
+6mo wMx,516,41
+6mo wMx wDBS,501,16
+6mo wMx wDBS,502,23
+6mo wMx wDBS,503,NaN
+6mo wMx wDBS,504,10
+6mo wMx wDBS,505,10
+6mo wMx wDBS,506,10
+6mo wMx wDBS,507,7
+6mo wMx wDBS,508,20
+6mo wMx wDBS,509,NaN
+6mo wMx wDBS,510,19
+6mo wMx wDBS,511,39
+6mo wMx wDBS,512,26
+6mo wMx wDBS,513,3.5
+6mo wMx wDBS,514,5
+6mo wMx wDBS,515,18
+6mo wMx wDBS,516,21
