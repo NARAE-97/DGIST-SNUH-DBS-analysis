@@ -11,7 +11,6 @@ Source data of the paper are in the folder ```data``` (Currently not publicly pr
 1. Introduction & Purpose  
 2. Repository Structure  
 3. Environment & Dependencies  
-4. License & Citation  
 
 ---
 
